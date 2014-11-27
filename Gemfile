@@ -13,6 +13,7 @@ gem 'libv8'
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
 gem 'nokogiri', '1.6.4.1'
+gem 'rbenv-rehash'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
